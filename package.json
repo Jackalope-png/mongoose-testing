@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.8.1",
+    "node": "^22.11.0"
+  },
+  "scripts": {
+    "start": "node testingserver.js"
+  }
+}
